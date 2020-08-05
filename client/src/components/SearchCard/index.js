@@ -3,8 +3,8 @@ import React from "react";
 function SearchCard(props) {
     return (
       <form>
-          <div class="card">
-  <div class="card-body">
+          <div className="card">
+        <div className="card-body">
           <div className="form-group">
             <label htmlFor="search">Book Search:</label>
             <input
