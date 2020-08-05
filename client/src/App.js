@@ -6,12 +6,8 @@ import Saved from "./containers/saved";
 import Search from "./containers/search";
 
 class App extends Component {
-  static propTypes = {
-    children: propTypes.node
-  }
   
   render() {
-    const { children } = this.props
     return (
       <Router>
         <Navbar />
