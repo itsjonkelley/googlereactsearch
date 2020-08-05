@@ -7,7 +7,7 @@ import Search from "./containers/search";
 
 class App extends Component {
   static propTypes = {
-    children: PropTypes.node
+    children: propTypes.node
   }
   
   render() {
