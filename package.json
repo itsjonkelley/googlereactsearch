@@ -1,6 +1,6 @@
 {
-    "homepage": "http://itsjonkelley.github.io/googlereactsearch",
-    "name": "mern",
+  "homepage": "http://itsjonkelley.github.io/googlereactsearch",
+  "name": "mern",
   "version": "1.0.0",
   "description": "Mern Demo",
   "main": "server.js",
