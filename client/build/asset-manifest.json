@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.d501f46a.chunk.js",
-  "main.js.map": "/static/js/main.d501f46a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.bbe8eb11.chunk.js": "/static/js/2.bbe8eb11.chunk.js",
-  "static/js/2.bbe8eb11.chunk.js.map": "/static/js/2.bbe8eb11.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d5734a48aad3a4b5aefac9f1c259dfb9.js": "/precache-manifest.d5734a48aad3a4b5aefac9f1c259dfb9.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/googlereactsearch/static/js/main.d501f46a.chunk.js",
+  "main.js.map": "/googlereactsearch/static/js/main.d501f46a.chunk.js.map",
+  "runtime~main.js": "/googlereactsearch/static/js/runtime~main.71f7300b.js",
+  "runtime~main.js.map": "/googlereactsearch/static/js/runtime~main.71f7300b.js.map",
+  "static/js/2.bbe8eb11.chunk.js": "/googlereactsearch/static/js/2.bbe8eb11.chunk.js",
+  "static/js/2.bbe8eb11.chunk.js.map": "/googlereactsearch/static/js/2.bbe8eb11.chunk.js.map",
+  "index.html": "/googlereactsearch/index.html",
+  "precache-manifest.a57823b019b0ce4309bf5a9853f89f43.js": "/googlereactsearch/precache-manifest.a57823b019b0ce4309bf5a9853f89f43.js",
+  "service-worker.js": "/googlereactsearch/service-worker.js"
 }
