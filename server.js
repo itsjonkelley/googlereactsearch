@@ -19,6 +19,10 @@ app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
 
+App.get('*', (req, res)=>{
+  res.sendFile(path.resolve(where, the, index.html, is))
+  })
+
 app.listen(PORT, () => {
   console.log(`🌎 ==> API server now on port ${PORT}!`);
 });
