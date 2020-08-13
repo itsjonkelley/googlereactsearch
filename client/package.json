@@ -1,8 +1,8 @@
 {
   "homepage": "http://itsjonkelley.github.io/googlereactsearch/",
-  "name": "mern",
+  "name": "google",
   "version": "0.1.0",
-  "description": "Mern Demo",
+  "description": "googlebooksearch",
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {

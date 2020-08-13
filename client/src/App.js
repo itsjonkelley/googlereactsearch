@@ -12,9 +12,8 @@ class App extends Component {
       <Router>
         <Navbar />
         <Jumbotron />
-        <Route exact path="/" component={Search} />
-        <Route exact path="/search" component={Search} />
-        <Route exact path="/saved" component={Saved} />
+        <Search />
+        <Saved />
     </Router>
     )
   }
